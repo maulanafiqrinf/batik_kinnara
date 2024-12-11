@@ -11,7 +11,7 @@
             <div class="col-xl-4 text-center text-xl-start">
                 <div class="title-area mb-37">
                     <p class="sec-text" style="color: black;text-align:center;font-size:20px">
-                        <?php echo $lang['prof11']; ?>
+                        <?php echo $lang['prof14']; ?>
                     </p>
                 </div>
             </div>
@@ -22,7 +22,7 @@
             </div>
             <div class="col-xl-4 text-center text-xl-start">
                 <div class="title-area mb-37">
-                    <p class="sec-text" style="color: black;text-align:center;font-size:20px"> <?php echo $lang['prof12']; ?>
+                    <p class="sec-text" style="color: black;text-align:center;font-size:20px"> <?php echo $lang['prof15']; ?>
                     </p>
                 </div>
             </div>
