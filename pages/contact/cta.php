@@ -11,8 +11,8 @@
                 <div class="team-contact">
                     <div class="icon-btn"><i class="fab fa-whatsapp"></i></div>
                     <div class="media-body">
-                        <h5 class="box-title"><?php echo $lang['con6']; ?></h5>
-                        <p class="box-text"><a href="#"><?php echo $lang['con1']; ?></a></p>
+                        <p class="box-text"><?php echo $lang['con6']; ?></p>
+                        <h5 class="box-title"><a href="#"><?php echo $lang['con1']; ?></a></h5>
                     </div>
                 </div>
             </div>
@@ -20,8 +20,8 @@
                 <div class="team-contact">
                     <div class="icon-btn"><i class="fab fa-instagram"></i></div>
                     <div class="media-body">
-                        <h5 class="box-title"><?php echo $lang['con7']; ?></h5>
-                        <p class="box-text"><a href="#"><?php echo $lang['con2']; ?></a></p>
+                        <p class="box-title"><?php echo $lang['con7']; ?></p>
+                        <h5 class="box-text"><a href="#"><?php echo $lang['con2']; ?></a></h5>
                     </div>
                 </div>
             </div>
@@ -29,8 +29,8 @@
                 <div class="team-contact">
                     <div class="icon-btn"><i class="fab fa-facebook"></i></div>
                     <div class="media-body">
-                        <h5 class="box-title"><?php echo $lang['con8']; ?></h5>
-                        <p class="box-text"><a href="#"><?php echo $lang['con3']; ?></a></p>
+                        <p class="box-title"><?php echo $lang['con8']; ?></p>
+                        <h5 class="box-text"><a href="#"><?php echo $lang['con3']; ?></a></h5>
                     </div>
                 </div>
             </div>
@@ -38,8 +38,8 @@
                 <div class="team-contact">
                     <div class="icon-btn"><i class="fas fa-store"></i></div>
                     <div class="media-body">
-                        <h5 class="box-title"><?php echo $lang['con9']; ?></h5>
-                        <p class="box-text"><a href="#"><?php echo $lang['con4']; ?></a></p>
+                        <p class="box-title"><?php echo $lang['con9']; ?></p>
+                        <h5 class="box-text"><a href="#"><?php echo $lang['con4']; ?></a></h5>
                     </div>
                 </div>
             </div>
@@ -47,8 +47,8 @@
                 <div class="team-contact">
                     <div class="icon-btn"><i class="fas fa-location-dot"></i></div>
                     <div class="media-body">
-                        <h5 class="box-title"><?php echo $lang['titlecontact1']; ?></h5>
-                        <p class="box-text"><?php echo $lang['titlecontact2']; ?></p>
+                        <p class="box-title"><?php echo $lang['titlecontact1']; ?></p>
+                        <h5 class="box-text"><?php echo $lang['titlecontact2']; ?></h5>
                     </div>
                 </div>
             </div>

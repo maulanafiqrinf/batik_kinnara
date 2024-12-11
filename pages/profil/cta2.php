@@ -21,7 +21,7 @@
                         <div class="row align-items-center">
                             <div class="col-xl-12 text-center text-xl-start">
                                 <p class="sec-text" style="color: black;text-align:center;font-size:20px">
-                                    <?php echo $lang['prof4']; ?>
+                                    <?php echo $lang['prof16']; ?>
                                 </p>
                             </div>
                         </div>
@@ -34,19 +34,19 @@
                         <div class="col-xl-4 mb-35 mb-xl-0">
                             <div class="img-box1">
                                 <div class="img1">
-                                    <img src="assets/img/profil/profil1.jpg" alt="About" />
+                                    <img src="assets/img/profil/profil2.jpg" alt="About" />
                                 </div>
                             </div>
                         </div>
                         <div class="col-xl-4 text-center text-xl-start">
                             <div class="title-area mb-37">
-                                <p class="sec-text" style="color: black;text-align:justify;font-size:20px"> <?php echo $lang['prof6']; ?></p>
+                                <p class="sec-text" style="color: black;text-align:justify;font-size:20px"> <?php echo $lang['prof17']; ?></p>
                             </div>
                         </div>
                         <div class="col-xl-4 mb-35 mb-xl-0">
                             <div class="img-box1">
                                 <div class="img1">
-                                    <img src="assets/img/profil/profil2.jpg" alt="About" />
+                                    <img src="assets/img/profil/profil1.jpg" alt="About" />
                                 </div>
                             </div>
                         </div>

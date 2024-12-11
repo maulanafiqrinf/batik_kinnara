@@ -25,7 +25,7 @@
                     <div class="box-shape">
                         <img src="assets/img/shape/lines_3.png" alt="shape" />
                     </div>
-                    <span class="tag"><?php echo $lang['titlehome3']; ?></span>
+                    <span class="tag"><?php echo $lang['titlehome']; ?></span>
                     <h3 class="box-title"><?php echo $card['title']; ?></h3>
                     <p class="sec-text" style="font-weight: bold;font-size:16px;">
                         <?php echo $card['about']; ?>
